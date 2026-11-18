@@ -1,16 +1,16 @@
 ---
 layout: portfolio
-title: TrirayanB | Portfolio
-site_name: TrirayanB
+title: Trirayan Boontaganon
+site_name: Trirayan Boontaganon
 permalink: /
 ---
 
 <!-- Write your display name and a one-line introduction below.
      Update title and site_name above if you change your display name. -->
 
-# TrirayanB
+# Trirayan Boontaganon
 
-My personal site and GitHub projects.
+Personal site
 
 ## Biography
 
