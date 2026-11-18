@@ -37,6 +37,6 @@ The source code for this website.
 
 ## Contact
 
-<!-- Add a public email address or social links below. -->
+[boontaganont@gmail.com](mailto:boontaganont@gmail.com)
 
 [Find me on GitHub](https://github.com/TrirayanB)
