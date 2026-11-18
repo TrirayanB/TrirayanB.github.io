@@ -23,7 +23,9 @@ In 2025, he was a programmer on Team Lorentz, which placed second in its remote-
 
 ## GitHub repositories
 
-### [DAEDALUS](https://github.com/spaceactech/DAEDALUS)
+### Featured repo
+
+[DAEDALUS](https://github.com/spaceactech/DAEDALUS)
 
 CanSat avionics firmware for Team DAEDALUS.
 
