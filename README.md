@@ -23,12 +23,9 @@ In 2025, he was a programmer on Team Lorentz, which placed second in its remote-
 
 ## GitHub repositories
 
-<!-- Copy the linked heading and description for every repository you want
-     to feature. Change the name, URL, and description. -->
+### [DAEDALUS](https://github.com/spaceactech/DAEDALUS)
 
-### [TrirayanB.github.io](https://github.com/TrirayanB/TrirayanB.github.io)
-
-The source code for this website.
+CanSat avionics firmware for Team DAEDALUS.
 
 [Browse all repositories on GitHub](https://github.com/TrirayanB?tab=repositories)
 
